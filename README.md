@@ -1,15 +1,20 @@
-![Logotipo Zetta](https://raw.githubusercontent.com/henriquepgomide/exp-curso-python-saude/master/assets/pucrs-logo.svg)
+![Logotipo PUCRS](https://raw.githubusercontent.com/henriquepgomide/exp-curso-python-saude/master/assets/pucrs-logo.svg)
 
 ## Curso - Introdução ao Python para Gestão da Saúde
 
-Repositório do material do curso de Python oferecido pela Zetta Exponential e Universidade Federal de Viçosa.
+Olá!
 
-Você precisará de uma conta gratuita do google para usar os notebooks via [Google Colaboratory](https://colab.research.google.com).
+Conheça o material complementar do módulo Data Science: Inovação no uso de
+dados de saúde.
+
+Este material é adaptado do Repositório do material do curso de Python
+oferecido pela Zetta Health Analytics. Você precisará de uma conta gratuita do
+Google para usar os notebooks via [Google
+Colaboratory](https://colab.research.google.com).
 
 Estrutura do curso: 
 
-### [1 semana] Introdução ao curso e suas ferramentas 
-
+### Introdução ao curso e suas ferramentas 
 Exercícios - [Tempo estimado: 2h]
 
 1. [Conheça o Colab](https://colab.research.google.com/github/henriquepgomide/exp-curso-python-saude/blob/master/PySaude_01_colab_visao_geral_01.ipynb): Tempo estimado 40 a 60 minutos.
@@ -17,8 +22,7 @@ Exercícios - [Tempo estimado: 2h]
 3. [Como atualizar e instalar bibliotecas no Colab](https://colab.research.google.com/github/henriquepgomide/exp-curso-python-saude/blob/master/PySaude_01_colab_visao_geral_03_bibliotecas.ipynb): Tempo estimado 30 minutos.
     
 
-### [2 semana] Introdução ao Python - Tipos de dados e operadores
-
+### Introdução ao Python - Tipos de dados e operadores
 #### [Link para Colab da aula síncrona](https://github.com/henriquepgomide/exp-curso-python-saude/blob/master/Aula_02_webinario.ipynb)
 
 Exercícios - [Tempo estimado: 2h30min]
@@ -28,9 +32,7 @@ Exercícios - [Tempo estimado: 2h30min]
 
 
 ### [3 semana] Introdução ao Python - Loops, estruturas de controle e funções
-
 #### [Link para Colab da aula síncrona](https://github.com/henriquepgomide/exp-curso-python-saude/blob/master/Aula_03_webinario.ipynb)
-
 
 
 Exercícios - [Tempo estimado: 2h15min]
@@ -40,24 +42,18 @@ Exercícios - [Tempo estimado: 2h15min]
 
 
 ### [4 semana] Análise exploratória e Modelos Lineares Generalizados com Python
-
 Exercícios - [Tempo estimado: 2h]
 
 8. [Análise exploratória de dados e Modelos Lineares Generalizados com Python](https://colab.research.google.com/github/henriquepgomide/exp-curso-python-saude/blob/master/PySaude_03_python_analise_exploratoria_de_dados.ipynb)
 
 
 ### [5 semana] Projeto final - Árvores de decisão
-
 9. [Notebook para projeto final](https://colab.research.google.com/github/henriquepgomide/exp-curso-python-saude/blob/master/PySaude_03_python_arvore_regressao_projeto_final.ipynb)
 
 
 
 # Autores
-
-[Caio Salgado](https://www.linkedin.com/in/caio-salgado-b5758312/)
-
 [Henrique Gomide](https://www.linkedin.com/in/hpgomide/)
-
+[Caio Salgado](https://www.linkedin.com/in/caio-salgado-b5758312/)
 [Ana Flávia Souza](https://www.linkedin.com/in/ana-fl%C3%A1via-souza-2b06151a5/)
-
 [Gabriel Kakizaki](https://www.linkedin.com/in/gabriel-kakizaki-25b6311a5/)
